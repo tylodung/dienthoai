@@ -1,7 +1,7 @@
 ---
-title: 'Danh mục Tivi Mini'
+title: 'Dòng Cao Cấp'
 layout: Artists
 path: '/artists/'
-meta: Danh mục Tivi Mini
-keywords: Danh mục Tivi Mini
+meta: Dòng Cao Cấp
+keywords: Dòng Cao Cấp
 ---

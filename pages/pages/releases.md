@@ -1,7 +1,7 @@
 ---
-title: 'Danh mục Tivi Lớn'
+title: 'Dòng Phổ Thông'
 layout: Releases
 path: '/releases/'
-meta: Danh mục Tivi Lớn
-keywords: Danh mục Tivi Lớn
+meta: Dòng Phổ Thông
+keywords: Dòng Phổ Thông
 ---

@@ -1,9 +1,9 @@
 ---
-title: 'Tivi chính hãng'
+title: 'Điện thoại chính hãng'
 layout: HomePage
 path: '/'
-meta: Tivi chính hãng'
-keywords: Tivi chính hãng'
+meta: Điện thoại chính hãng'
+keywords: Điện thoại chính hãng'
 ---
 
 
